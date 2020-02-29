@@ -1,7 +1,5 @@
 package org.NauhWuun.streaming;
 
-import java.util.stream.Stream;
-
 public class Streams<T> extends Builder<T>
         implements
         If<T>,
