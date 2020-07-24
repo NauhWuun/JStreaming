@@ -1,2 +1,2 @@
 # JStreaming
-Streaming Pipeline Chain for java
+    Java Streaming Coding
